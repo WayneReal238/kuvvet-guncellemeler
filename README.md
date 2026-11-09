@@ -3,4 +3,4 @@
 Bu depo Apex (eski adıyla Kuvvet) masaüstü uygulamasının otomatik güncelleme dosyalarını barındırır.
 Uygulama `latest.yml` dosyasını okuyarak yeni sürümü kontrol eder ve indirir.
 
-Güncel sürüm: 1.10.0
+Güncel sürüm: 1.11.0
