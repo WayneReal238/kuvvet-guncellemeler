@@ -1,8 +1,8 @@
-version: 1.6.0
+version: 1.7.0
 files:
-  - url: Apex-Kurulum-1.6.0.exe
-    sha512: EKCxaFdcYA24VoFFSM6RewVn6nw/dV0nIV0YLNWruf1PCpnQq90+OzAkX94udTspU/lsk13yKSVY6hjQh8K4nw==
-    size: 84964288
-path: Apex-Kurulum-1.6.0.exe
-sha512: EKCxaFdcYA24VoFFSM6RewVn6nw/dV0nIV0YLNWruf1PCpnQq90+OzAkX94udTspU/lsk13yKSVY6hjQh8K4nw==
-releaseDate: '2026-11-09T09:51:02.178Z'
+  - url: Apex-Kurulum-1.7.0.exe
+    sha512: ne8S9pQmAvvYrb41nBKFPUki0wIgcKyseZOm/HTdqmHQFnX9oTEW+W4iVVBebflhXO7LDs6TS5PUdw5CWPgnBQ==
+    size: 84969378
+path: Apex-Kurulum-1.7.0.exe
+sha512: ne8S9pQmAvvYrb41nBKFPUki0wIgcKyseZOm/HTdqmHQFnX9oTEW+W4iVVBebflhXO7LDs6TS5PUdw5CWPgnBQ==
+releaseDate: '2026-11-09T10:08:29.498Z'
