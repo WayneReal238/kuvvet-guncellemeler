@@ -1,8 +1,8 @@
-version: 1.5.0
+version: 1.6.0
 files:
-  - url: Kuvvet-Kurulum-1.5.0.exe
-    sha512: sY06yXDnObfokrGcgjgqyBfYAWJOBcxJrtSZgHQLSCDQqTFqAWeaE614W2ALRQ5vZGd4yktBEht4jIoq5Is1yQ==
-    size: 84963064
-path: Kuvvet-Kurulum-1.5.0.exe
-sha512: sY06yXDnObfokrGcgjgqyBfYAWJOBcxJrtSZgHQLSCDQqTFqAWeaE614W2ALRQ5vZGd4yktBEht4jIoq5Is1yQ==
-releaseDate: '2026-11-09T09:37:19.734Z'
+  - url: Apex-Kurulum-1.6.0.exe
+    sha512: EKCxaFdcYA24VoFFSM6RewVn6nw/dV0nIV0YLNWruf1PCpnQq90+OzAkX94udTspU/lsk13yKSVY6hjQh8K4nw==
+    size: 84964288
+path: Apex-Kurulum-1.6.0.exe
+sha512: EKCxaFdcYA24VoFFSM6RewVn6nw/dV0nIV0YLNWruf1PCpnQq90+OzAkX94udTspU/lsk13yKSVY6hjQh8K4nw==
+releaseDate: '2026-11-09T09:51:02.178Z'
